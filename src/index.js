@@ -7,7 +7,7 @@ import App from './app';
 import './index.css';
 
 reactDom.render(
-    <SpeechProvider appId="get app id from speechly" language="en-US">
+    <SpeechProvider appId="8be46fda-72ab-4212-9cb4-2a88e24f6955" language="en-US">
         <Provider>
             <App /> 
         </Provider>
